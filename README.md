@@ -56,6 +56,8 @@ SELECT COUNT(*) FROM employees;
 
 ![Image](https://github.com/user-attachments/assets/a91b895c-7710-4ca2-aba6-3bfe4f777ae1)
 
+![Image](https://github.com/user-attachments/assets/22a8e165-1737-45f1-99ec-f6a9d2922c3e)
+
 
 
 
