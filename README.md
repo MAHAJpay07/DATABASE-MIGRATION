@@ -54,6 +54,8 @@ SELECT COUNT(*) FROM employees;
 -- In MySQL
 SELECT COUNT(*) FROM employees;
 
-*output*
+![Image](https://github.com/user-attachments/assets/a91b895c-7710-4ca2-aba6-3bfe4f777ae1)
+
+
 
 
